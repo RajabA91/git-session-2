@@ -1,3 +1,7 @@
 Welcome to My Website
 
 Website Name: My First Website
+
+Contact Us:
+Email: contact@example.com
+Phone: 123-456-7890
